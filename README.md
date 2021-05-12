@@ -1,9 +1,5 @@
-# test
-test
-xlncewqokncdewqpd
+# Kosovo deforestation
 
-this is the new change
+Test slider for forest loss article. 
 
-this is the second change (pull request)
-
-this is the third change (pull req 2)
+Uses juxtaposeJS
