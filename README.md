@@ -1,5 +1,7 @@
-# Kosovo deforestation
+# SLK graphics
 
-Test slider for forest loss article. 
+Graphics work for storymap.
 
-Uses juxtaposeJS
+Includes:
+- forest loss slider
+- forest loss bar chart
